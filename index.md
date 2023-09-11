@@ -5,7 +5,7 @@ title: AI for Urban Traffic Control and Mobility
 
 # AI for Urban Traffic Control and Mobility
 
-This is the website for the [FLAIRS 2023](https://www.flairs-36.info/) Special Track on AI for Urban Traffic Control and Mobility.
+This is the website for the [FLAIRS 2024](https://www.flairs-37.info/) Special Track on AI for Urban Traffic Control and Mobility.
 
 
 ## Call for Papers
@@ -37,18 +37,17 @@ Appendices after the references are permitted but might not be reviewed, and app
 
 Double-blind reviewing will be provided, so submitted papers must use fake/anonymized author names and affiliations.
 
-Papers must be in format provided in FLAIRS-36 website, and submitted as PDF through the [EasyChair conference system](https://www.google.com/url?q=https%3A%2F%2Feasychair.org%2Fconferences%2F%3Fconf%3Dflairs36&sa=D&sntz=1&usg=AOvVaw28maERZYaOEJ4Z8b3xYQ_n), which is also available in the main conference web site. The proceedings of FLAIRS-36 will be published by [Florida OJ](https://journals.flvc.org/FLAIRS/index). In order for a paper to be published in the proceedings, the paper must be accompanied by at least one AUTHOR REGISTRATION.  It is also expected that for a full (i.e., maximum 6-page) paper, at least one of the authors will attend the conference to present their work. In order for a poster to be presented at the conference, it must also be accompanied by an AUTHOR REGISTRATION.
+Papers must be in format provided in FLAIRS-36 website, and submitted as PDF through the [EasyChair conference system](https://easychair.org/conferences/?conf=flairs37), which is also available in the main conference web site. The proceedings of FLAIRS-37 will be published by [Florida OJ](https://journals.flvc.org/FLAIRS/index). In order for a paper to be published in the proceedings, the paper must be accompanied by at least one AUTHOR REGISTRATION.  It is also expected that for a full (i.e., maximum 6-page) paper, at least one of the authors will attend the conference to present their work. In order for a poster to be presented at the conference, it must also be accompanied by an AUTHOR REGISTRATION.
 
 ## Deadlines
-* Paper abstract submission deadline: February 6, 2023 
-* Paper submission deadline: February 13, 2023 
-* Notification: March 13, 2023
-* Camera-ready paper submission: April 10, 2023
+* Paper abstract submission deadline: January 22, 2024 
+* Paper submission deadline: January 29, 2024 
+* Notification: March 11, 2024
+* Camera-ready paper submission: April 8, 2024
 
 
 ## Organizers
  - [Lukas Chrpa](https://sites.google.com/view/lukaschrpa/home)
- - [Federico Cerutti](https://federico-cerutti.unibs.it/)
  - [Mauro Vallati](https://maurovallati.blogspot.com/)
 
 ## Program Committee
