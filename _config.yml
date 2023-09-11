@@ -5,7 +5,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: AI4UTCM
-description: FLAIRS 2023 Special Track
+description: FLAIRS 2024 Special Track
 
 # Build settings
 remote_theme: pages-themes/leap-day@v0.2.0
