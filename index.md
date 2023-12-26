@@ -48,7 +48,7 @@ Papers must be in format provided in FLAIRS-36 website, and submitted as PDF thr
 
 ## Organizers
  - [Lukas Chrpa](https://sites.google.com/view/lukaschrpa/home)
- - [Mauro Vallati](https://maurovallati.blogspot.com/)
+ - [Mauro Vallati](https://www.mvallati.net/)
 
 ## Program Committee
 TBC
